@@ -1,0 +1,22 @@
+body {
+    background-color: #808080;
+}
+#main {
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.bitcoin-section{
+    display: flex;
+    
+}
+.bitcoin-section > p {
+    margin: 10px;
+}
+
+.currencyDescription   {
+    color: gray;
+    font-size: 17px;
+}
